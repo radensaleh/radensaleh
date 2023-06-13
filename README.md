@@ -37,8 +37,7 @@
 
 ## Stats
 
-![radensaleh](https://github-readme-stats.vercel.app/api/top-langs/?username=radensaleh&hide_progress=true&hide=html,CSS,C)
-
+[![radensaleh](https://github-readme-stats.vercel.app/api/top-langs/?username=radensaleh&hide_progress=true&hide=html,CSS,C)]()
 [![radensaleh](https://github-readme-stats.vercel.app/api?username=radensaleh&show_icons=true&locale=en)]()
 [![radensaleh](https://github-readme-streak-stats.herokuapp.com/?user=radensaleh&)]()
 [![radensaleh](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radensaleh&theme=github)]()
